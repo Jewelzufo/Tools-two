@@ -8,5 +8,13 @@ The prompts in this repo work with large language models that have access to the
 
 ## 📖Prompts
 🚨[Prompts.md](https://github.com/Jewelzufo/Tools-two/blob/643d3135f2052e8e3b963d5c8095b91f547b190b/Prompts.md)
+ALL Prompts are located here!
 
 
+
+---
+
+
+<strong>Email<strong>: jgonzalez.ai@proton.me 
+
+<strong>LinkedIn<strong>: https://www.linkedin.com/in/julian-gonzalez-7b533129a
